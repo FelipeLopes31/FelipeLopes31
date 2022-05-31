@@ -5,11 +5,15 @@
 - 📖Estudando Java
 - 💻 Backend
 
+<br/>
+
 <div>
 <a href="https://github.com/FelipeLopes31">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLopes31&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeLopes31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+  <br>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
